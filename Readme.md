@@ -1,3 +1,7 @@
-# Email Newsletter 
+# Zero To Production Rust
 
-A simple email newsletter
+This repository contains projects in the Zero To Production Rust Book
+
+# Projects
+
+* Email Newsletter
